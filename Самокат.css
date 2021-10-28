@@ -1,0 +1,67 @@
+.block1 {
+	background: #000;
+	display: flex;
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+	width: 100%;
+}
+
+body {
+	margin: 0; 
+	font-family: cursive;
+}
+
+.block2 {
+	text-align: center;
+}
+
+h2 {
+	text-transform: uppercase;
+	color: purple;
+}
+
+.block3 {
+	background: #000;
+	color: purple;
+	text-align: center;
+}
+
+.block4 {
+	text-align: center;
+	color: purple;
+}
+
+ol {
+	width: 50px;
+	margin: auto;
+}
+
+th,td{
+	border: purple 4px solid;
+}
+
+table {
+	border-collapse: collapse;
+	margin: auto;
+}
+
+.block6 {
+	text-align: center;
+}
+
+th {
+	background: black;
+	color: purple;
+}
+
+td {
+	background: #f800fc;
+	color: black;
+}
+
+.gg {
+	text-align: center;
+}
